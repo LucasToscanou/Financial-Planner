@@ -27,3 +27,4 @@ A SQL based app that organizes the accounting of bank accounts, creating summari
  
  
  
+## Database structure
