@@ -28,3 +28,4 @@ A SQL based app that organizes the accounting of bank accounts, creating summari
  
  
 ## Database structure
+![Database structure png](./resources/Database%20structure.png)
